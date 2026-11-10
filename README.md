@@ -403,8 +403,9 @@ Menampilkan halaman utama aplikasi yang berisi navigasi menuju fitur pengelolaan
 
 ![Dashboard](Dokumentasi/menu_utama.png)
 
-### 8.2 CRUD Customer
+### 8.3 Dokumentasi Video
 
-### 8.3 CRUD Service
+Menampilkan proses CRUD pada customer, service dan booking.
 
-### 8.4 CRUD Service
+(https://www.youtube.com/watch?v=eiscVeYg-1o&t=78s)
+
